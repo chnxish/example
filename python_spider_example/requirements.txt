@@ -1,0 +1,36 @@
+# request
+requests == 2.25.1
+aiohttp == 3.8.0
+
+# automation test
+selenium == 4.0.0
+
+# parsing
+lxml == 4.6.3
+beautifulsoup4 == 4.9.3
+pyquery == 1.4.3
+
+# ocr
+pytesseract == 0.3.8
+
+# image
+pillow == 8.2.0
+
+# connect database
+pymysql == 1.0.2
+pymongo == 3.12.1
+redis == 3.5.3
+
+# web
+flask == 1.1.2
+tornado == 4.5.3
+
+# packet capture
+mitmproxy == 7.0.4 
+
+# auxiliary library
+cchardet == 2.1.7
+aiodns == 3.0.0
+webdriver-manager == 3.5.2
+scrapy-splash == 0.8.0
+scrapy-redis == 0.7.1
